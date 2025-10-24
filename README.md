@@ -1,4 +1,4 @@
-[banner](./assets/banner.png)
+![banner](./assets/banner.png)
 
 # FIAP Checkpoints – Data Science & Statistical Computing
 
